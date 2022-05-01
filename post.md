@@ -1,1 +1,1 @@
-new page
+theme: jekyll-theme-cayman
